@@ -1,0 +1,11 @@
+Prima di dire a cosa serve e come funziona un sistema crittografico bisogna sapere cos'&egrave; la crittografia.
+da cosa deriva la parola 'crittografia' e cosa significa?
+La crittografia deriva dal greco κρυπτóς [kryptós] e il significato &egrave; "nascosto". gi&agrave; solo andando ad intuito possiamo capire che la crittografia &egrave; una scrittura illeggibile/non comprensibile e permette di non far identificare il messaggio a persone non autorizzate, garantendo così il concetto di "sicurezza informatica".
+<br><br><strong>A cosa serve la crittografia?</strong><br>
+La crittografia &egrave; la base della protezione dei dati ed &egrave; il modo pi&ugrave; semplice e importante per garantire che le informazioni di un sistema informatico non possano essere rubate e lette da qualcuno che voglia utilizzarle per scopi malevoli.
+qui sotto &egrave; riportato un esempio facilissimo di crittografia:
+messaggio: l'auto &egrave; grigia
+messaggio con l'uso della crittografia: l'4v70 &' 6r1614
+nel nostro esempio di crittografia abbiamo usato il 4 come 'a', la v come 'u', il 7 come 't', lo zero come la 'o', il 6 come la 'g' e l'1 come 'i'
+come funziona un sistema crittografico
+la crittografia quindi agisce su una sequenza di caratteri trasformandola, tutto ci &egrave; basato su una "chiave segreta", che non tutti sono in grado di identificare e capire. si sfrutta l'utilizzo di un algoritmo matematica.
