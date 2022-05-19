@@ -2,7 +2,8 @@
 
 body{
     /*background-color: black;*/
-    background-image: url("img/discoteca.gif");
+    background-image: url("img/sfondo.jpg");
+    background-size: cover;
     opacity: 20px;
     margin: 0px;
     padding: 0px;
@@ -24,12 +25,13 @@ body{
     padding-bottom: 10px;
 }
 .list a:hover{
-    background-color: rgba(185, 1, 1, 0.694);
+    background-color: rgba(104, 23, 131, 0.833);
     color: white;
+    box-shadow: 0px 10px 30px 0px black;
 }
 
 #back-color{
-    background-color: rgba(255, 0, 0, 0.587);
+    background-color: rgba(104, 23, 131, 0.833);
     color: rgba(255, 255, 255, 0.873);
 }
 
