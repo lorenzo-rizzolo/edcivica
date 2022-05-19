@@ -71,3 +71,7 @@ hr{
     width: 800px;
     margin: auto;
 }
+
+strong{
+    font-size: 150%;
+}
