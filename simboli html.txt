@@ -1,0 +1,6 @@
+è &egrave;
+ì &igrave;
+' &#96;
+ù &ugrave;
+à &agrave;
+ò &ograve;
