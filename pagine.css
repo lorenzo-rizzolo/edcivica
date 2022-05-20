@@ -64,7 +64,8 @@ h1, p,h2{
 }
 
 .max-title{
-    font-size: 300%;
+    font-size: 200%;
+    text-transform: uppercase;
 }
 
 .contenuto{
