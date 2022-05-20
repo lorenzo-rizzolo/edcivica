@@ -44,6 +44,10 @@ header{
     /*border-bottom: 7px solid rgba(255, 255, 255, 0.756);*/
 }
 
+header h1{
+    padding: 30px;
+}
+
 footer{
     text-align: center;
     padding: 25px;

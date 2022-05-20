@@ -42,6 +42,9 @@ header{
     text-align: center;
     font-size: 130%;
 }
+header h1{
+    padding: 30px;
+}
 
 footer{
     text-align: center;
