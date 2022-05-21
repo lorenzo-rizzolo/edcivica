@@ -44,6 +44,7 @@ header{
 }
 header h1{
     padding: 30px;
+    text-transform: uppercase;
 }
 
 footer{
@@ -67,5 +68,8 @@ h1, p,h2{
     text-align: center;
     font-size: 150%;
     padding: 20px;
+}
+hr{
+    width: 50%;
 }
 

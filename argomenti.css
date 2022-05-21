@@ -22,6 +22,7 @@ header{
     border: 0px;
     box-shadow: 0px 0px 20px 0px black;
     font-size: 130%;
+    text-transform: uppercase;
 }
 header h1{
     padding: 30px;
@@ -33,13 +34,16 @@ footer{
     border-top: 7px solid rgba(255, 255, 255, 0.756);
     box-shadow: 0px 0px 30px 0px black;
     font-size: 120%;
+    font-family: anton;
 }
 
 h1, p,h2{
     margin: 0px;
     margin-bottom: 5px;
 }
-
+h2{
+    text-transform: uppercase;
+}
 .max-title{
     font-size: 300%;
 }
@@ -60,8 +64,9 @@ h1, p,h2{
     text-decoration: none;
     color: black;
     padding: 0px;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 2%;
+    padding-right: 1%;
+    font-family: anton;
 }
 .box a:hover{
     background-color: rgba(104, 23, 131, 0.833);
@@ -83,6 +88,7 @@ h1, p,h2{
     padding-right: 45px;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-family: anton;
 }
 .list a:hover{
     background-color: rgba(104, 23, 131, 0.833);
