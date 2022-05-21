@@ -89,6 +89,7 @@ h2{
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: anton;
+    font-size: 120%;
 }
 .list a:hover{
     background-color: rgba(104, 23, 131, 0.833);

@@ -17,6 +17,7 @@ body{
 }
 .list a{
     text-decoration: none;
+    font-family: anton;
     color: black;
     padding:0px;
     padding-left: 55px;
@@ -24,6 +25,7 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .list a:hover{
     background-color: rgba(104, 23, 131, 0.833);
     color: white;
@@ -53,6 +55,7 @@ footer{
     border-top: 7px solid rgba(255, 255, 255, 0.756);
     box-shadow: 0px 0px 30px 0px black;
     font-size: 130%;
+    font-family: anton;
 }
 
 h1, p,h2{
