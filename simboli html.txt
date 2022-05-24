@@ -5,3 +5,4 @@
 à &agrave;
 ò &ograve;
 " &quot;
+E' &Egrave;
