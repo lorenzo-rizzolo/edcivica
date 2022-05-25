@@ -6,3 +6,4 @@
 ò &ograve;
 " &quot;
 E' &Egrave;
+€ &#8364;
