@@ -1,0 +1,6 @@
+Chiunque fraudolentemente intercetta comunicazioni relative ad un sistema informatico o telematico o intercorrenti tra più sistemi,
+ovvero le impedisce o le interrompe, è punito con la reclusione da sei mesi a quattro anni. <br>
+Questa è la definizione di cos'è una intercettazione o interruzione illecita di comunicazioni informatiche o telematiche che si appoggia all'articolo 617.
+L'intercettazione telefonica, ascolto e controllo delle comunicazioni a distanza effettuato inserendosi segretamente tra chi comunica. (questo è il reato)
+<br><br><strong>Un esempio pratico</strong><br>
+Se io X mi inserisco in una chiamata tra Y e Z sto intercettando illecitamnte una comunicazione informatica.

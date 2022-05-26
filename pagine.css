@@ -44,9 +44,11 @@ header{
     /*border-bottom: 7px solid rgba(255, 255, 255, 0.756);*/
 }
 
-header h1{
+header h1 strong{
     padding: 30px;
+    text-transform: uppercase;
 }
+
 
 footer{
     text-align: center;
