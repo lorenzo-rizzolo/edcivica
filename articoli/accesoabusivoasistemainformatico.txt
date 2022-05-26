@@ -1,0 +1,25 @@
+Chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza ovvero vi si mantiene contro la volontà espressa di chi ha diritto di escluderlo, è punito con la reclusione fino a 3 anni.
+Si commette il reato di accesso abusivo a un sistema informatico o telematico a prescindere dalle intenzioni che muovono il malvivente e dal danno che abbia causato. Ciò significa che, se qualcuno ruba la password di Instagram a un’altra persona ed entra nel suo profilo solamente per sbirciare, si sarà comunque commesso il reato di accesso abusivo anche senza aver prodotto alcun danno concreto.
+Spesso, però, l’accesso abusivo è finalizzato a ben altri scopi, e cioè a prendere informazioni preziose, semmai provvedendo alla duplicazione illegittima delle stesse, con il rischio di dare luogo al diverso reato di diffusione abusiva di dati informatici.
+Sistema informatico e sistema telematico: differenza
+Qual è la differenza tra un sistema informatico e uno telematico? Più in generale, qual è la differenza tra informatica e telematica?
+I sistemi informatici sono formati da computer ed elaboratori connessi tra loro fisicamente da cavi hardware per poter scambiarsi dati e informazioni.
+I sistemi telematici, al contrario, sono formati da reti di elaboratori che non sono collegati in modo permanente tra loro da cavi e collegamenti fisici, ma che per comunicare tra loro utilizzano cavi telefonici, canali televisivi o altro.
+La telematica è, infatti, l’informatica applicata alle telecomunicazioni. In pratica, oggi parlare di telematica significa quasi sempre riferirsi al mondo di internet.
+Qui una lista dei principali reati informatici:
+-DIALER (numerazioni a valore aggiunto)
+-FURTO DI IDENTITA’ SEMPLICE
+-VIOLAZIONE ACCOUNT.
+-ACCESSO E-MAIL
+-ACCESSI ABUSIVI INFORMATICI
+-TRUFFA NEGOZI ONLINE COME E-BAY O ALTRE PIATTAFORME DI E-COMMERCE
+-BONIFICO DISCONOSCIUTO (PHISHING*)
+*PHISING= Questa truffa consiste nel lasciare dati personali e numeri di carte e carte prepagate a un incognito che finge di essere un operatore della banca. 
+Che differenza c’è tra phishing e fishing?
+Non ci sono grandi differenze, possiamo dire che la tecnica del phishing è una variante di fishing, ha più tecniche sofisticate per “pescare” i dati bancari di un utente.
+Cosa è il DIALER?
+Il DIALER è un programma eseguibile .exe che cambia le impostazioni della connessione a internet e sostituisce il proprio numero di telefono con uno a pagamento. 
+Se si subisce una truffa da un qualsiasi e-commerce, bisogna denunciare l’accaduto alle autorità della Polizia postale.  Non sempre si riesce a risalire al versamento sul proprio conto.
+Un esempio di furto di identità è: 
+-postare contenuti offensivi sui social (instagram, tiktok, telegram, facebook, snapchat ecc…), compiendo atti illegali come offese razziali.
+
